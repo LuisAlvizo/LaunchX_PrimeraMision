@@ -1,2 +1,2 @@
 # LaunchX_PrimeraMision
-Katas de la primera misión del programa Launch X
+Intro Python - Notebook de la primera misión del programa Launch X -
